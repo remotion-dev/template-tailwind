@@ -1,4 +1,4 @@
-# Remotion video
+# Remotion video with Tailwind
 
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
@@ -38,9 +38,11 @@ npm run upgrade
 
 Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
 
+Get started with Tailwind by reading the ["Utility first" page](https://tailwindcss.com/docs/utility-first)
+
 ## Help
 
-We provide help [on our Discord server](https://discord.gg/6VzzNDwUwV).
+We provide help [on our Discord server](https://remotion.dev/discord).
 
 ## Issues
 
