@@ -9,8 +9,8 @@ export const Subtitle: React.FC = () => {
 	});
 
 	return (
-		<div className="text-gray-600 text-xl" style={{opacity}}>
-			Edit <code>src/index.tsx</code> and save to reload.
+		<div className="text-gray-600 text-3xl" style={{opacity}}>
+			Edit <code>src/Composition.tsx</code> and save to reload.
 		</div>
 	);
 };
