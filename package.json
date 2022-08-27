@@ -2,6 +2,9 @@
 	"name": "remotion-template",
 	"version": "1.0.0",
 	"description": "My Remotion video",
+	"sideEffects": [
+		"*.css"
+	],
 	"scripts": {
 		"start": "remotion preview src/index.tsx",
 		"build": "remotion render src/index.tsx MyComp out/video.mp4",
