@@ -6,8 +6,8 @@
 		"*.css"
 	],
 	"scripts": {
-		"start": "remotion preview src/index.tsx",
-		"build": "remotion render src/index.tsx MyComp out/video.mp4",
+		"start": "remotion preview src/index.ts",
+		"build": "remotion render src/index.ts MyComp out/video.mp4",
 		"upgrade": "remotion upgrade",
 		"test": "eslint src --ext ts,tsx,js,jsx && tsc"
 	},
