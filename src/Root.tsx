@@ -2,7 +2,7 @@ import {Composition} from 'remotion';
 import {MyComposition} from './Composition';
 import './style.css';
 
-export const RemotionVideo: React.FC = () => {
+export const RemotionRoot: React.FC = () => {
 	return (
 		<>
 			<Composition
