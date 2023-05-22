@@ -14,24 +14,18 @@
 	"repository": {},
 	"license": "UNLICENSED",
 	"dependencies": {
-		"@remotion/cli": "^3.0.0",
+		"@remotion/cli": "^3.3.95",
+		"@remotion/tailwind": "^3.3.95",
 		"react": "^18.0.0",
 		"react-dom": "^18.0.0",
-		"remotion": "^3.0.0"
+		"remotion": "^3.3.95"
 	},
 	"devDependencies": {
-		"@remotion/eslint-config": "^3.0.0",
-		"autoprefixer": "10.4.4",
-		"css-loader": "^6.7.1",
-		"eslint": "^8.30.0",
-		"postcss": "8.4.12",
-		"postcss-loader": "6.2.1",
-		"postcss-preset-env": "7.4.3",
-		"prettier": "^2.8.1",
-		"style-loader": "^3.3.1",
-		"tailwindcss": "^3.1.6",
-		"typescript": "^4.9.4",
+		"@remotion/eslint-config": "^3.3.95",
 		"@types/react": "^18.0.26",
-		"@types/web": "^0.0.86"
+		"@types/web": "^0.0.86",
+		"eslint": "^8.30.0",
+		"prettier": "^2.8.1",
+		"typescript": "^4.9.4"
 	}
 }
