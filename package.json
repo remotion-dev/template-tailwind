@@ -14,27 +14,25 @@
 	"repository": {},
 	"license": "UNLICENSED",
 	"dependencies": {
-		"@remotion/bundler": "4.0.0-alpha8",
-		"@remotion/cli": "4.0.0-alpha8",
-		"@remotion/zod-types": "4.0.0-alpha8",
+		"@remotion/bundler": "4.0.0-alpha9",
+		"@remotion/cli": "4.0.0-alpha9",
+		"@remotion/zod-types": "4.0.0-alpha9",
 		"react": "^18.0.0",
 		"react-dom": "^18.0.0",
-		"remotion": "4.0.0-alpha8",
+		"remotion": "4.0.0-alpha9",
 		"zod": "^3.21.4"
 	},
 	"devDependencies": {
-		"@remotion/eslint-config": "4.0.0-alpha8",
+		"@remotion/eslint-config": "4.0.0-alpha9",
 		"@types/react": "^18.0.26",
 		"@types/web": "^0.0.86",
-		"autoprefixer": "10.4.4",
-		"css-loader": "^6.7.1",
 		"eslint": "^8.30.0",
 		"prettier": "^2.8.1",
-		"@remotion/cli": "^3.3.95",
-		"@remotion/tailwind": "^3.3.95",
+		"@remotion/cli": "4.0.0-alpha9",
+		"@remotion/tailwind": "4.0.0-alpha9",
 		"react": "^18.0.0",
 		"react-dom": "^18.0.0",
-		"remotion": "^3.3.95",
+		"remotion": "4.0.0-alpha9",
 		"typescript": "^4.9.4"
 	}
 }
