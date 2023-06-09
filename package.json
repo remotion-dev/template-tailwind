@@ -6,7 +6,7 @@
 		"*.css"
 	],
 	"scripts": {
-		"start": "remotion preview",
+		"start": "remotion studio",
 		"build": "remotion render MyComp out/video.mp4",
 		"upgrade": "remotion upgrade",
 		"test": "eslint src --ext ts,tsx,js,jsx && tsc"
