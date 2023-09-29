@@ -14,7 +14,7 @@ export const Title: React.FC<{
 	return (
 		<div
 			style={{opacity, color: titleColor}}
-			className="text-gray-700 text-5xl font-bold leading-relaxed"
+			className="text-5xl font-bold leading-relaxed"
 		>
 			{' '}
 			{titleText}
